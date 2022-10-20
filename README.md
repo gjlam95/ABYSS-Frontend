@@ -1,2 +1,2 @@
-# Abyss-Frontend
+# ABYSS-Frontend
 Advanced BookY Scheduling System
